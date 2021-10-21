@@ -1,0 +1,6 @@
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Statine klase metodu sukurimas\bin\Debug\Statine klase metodu sukurimas.exe.config
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Statine klase metodu sukurimas\bin\Debug\Statine klase metodu sukurimas.exe
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Statine klase metodu sukurimas\bin\Debug\Statine klase metodu sukurimas.pdb
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Statine klase metodu sukurimas\obj\Debug\Statine klase metodu sukurimas.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Statine klase metodu sukurimas\obj\Debug\Statine klase metodu sukurimas.exe
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Statine klase metodu sukurimas\obj\Debug\Statine klase metodu sukurimas.pdb

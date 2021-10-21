@@ -1,0 +1,6 @@
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\String zaidimas\bin\Debug\String zaidimas.exe.config
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\String zaidimas\bin\Debug\String zaidimas.exe
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\String zaidimas\bin\Debug\String zaidimas.pdb
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\String zaidimas\obj\Debug\String zaidimas.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\String zaidimas\obj\Debug\String zaidimas.exe
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\String zaidimas\obj\Debug\String zaidimas.pdb

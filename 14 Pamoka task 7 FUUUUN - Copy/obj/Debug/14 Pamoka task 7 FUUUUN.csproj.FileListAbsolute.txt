@@ -1,0 +1,13 @@
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\14 Pamoka task 7 FUUUUN\bin\Debug\14 Pamoka task 7 FUUUUN.exe.config
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\14 Pamoka task 7 FUUUUN\bin\Debug\14 Pamoka task 7 FUUUUN.exe
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\14 Pamoka task 7 FUUUUN\bin\Debug\14 Pamoka task 7 FUUUUN.pdb
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\14 Pamoka task 7 FUUUUN\obj\Debug\14 Pamoka task 7 FUUUUN.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\14 Pamoka task 7 FUUUUN\obj\Debug\14 Pamoka task 7 FUUUUN.exe
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\14 Pamoka task 7 FUUUUN\obj\Debug\14 Pamoka task 7 FUUUUN.pdb
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\14 Pamoka task 7 FUUUUN - Copy\obj\Debug\14 Pamoka task 7 FUUUUN.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\14 Pamoka task 7 FUUUUN - Copy\obj\Debug\14 Pamoka task 7 FUUUUN.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\14 Pamoka task 7 FUUUUN - Copy\bin\Debug\14 Pamoka task 7 FUUUUN.exe.config
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\14 Pamoka task 7 FUUUUN - Copy\bin\Debug\14 Pamoka task 7 FUUUUN.exe
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\14 Pamoka task 7 FUUUUN - Copy\bin\Debug\14 Pamoka task 7 FUUUUN.pdb
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\14 Pamoka task 7 FUUUUN - Copy\obj\Debug\14 Pamoka task 7 FUUUUN.exe
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\14 Pamoka task 7 FUUUUN - Copy\obj\Debug\14 Pamoka task 7 FUUUUN.pdb

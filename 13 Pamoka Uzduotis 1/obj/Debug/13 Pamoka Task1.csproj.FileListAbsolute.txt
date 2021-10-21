@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\13 Pamoka Uzduotis 1\bin\Debug\13 Pamoka Uzduotis 1.exe.config
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\13 Pamoka Uzduotis 1\bin\Debug\13 Pamoka Uzduotis 1.exe
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\13 Pamoka Uzduotis 1\bin\Debug\13 Pamoka Uzduotis 1.pdb
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\13 Pamoka Uzduotis 1\obj\Debug\13 Pamoka Task1.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\13 Pamoka Uzduotis 1\obj\Debug\13 Pamoka Uzduotis 1.exe
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\13 Pamoka Uzduotis 1\obj\Debug\13 Pamoka Uzduotis 1.pdb
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\13 Pamoka Uzduotis 1\obj\Debug\13 Pamoka Task1.csproj.AssemblyReference.cache

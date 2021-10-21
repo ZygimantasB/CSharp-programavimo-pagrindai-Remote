@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Uzduotis ENUM pakartojimas\bin\Debug\Uzduotis ENUM pakartojimas.exe.config
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Uzduotis ENUM pakartojimas\bin\Debug\Uzduotis ENUM pakartojimas.exe
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Uzduotis ENUM pakartojimas\bin\Debug\Uzduotis ENUM pakartojimas.pdb
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Uzduotis ENUM pakartojimas\obj\Debug\Uzduotis ENUM pakartojimas.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Uzduotis ENUM pakartojimas\obj\Debug\Uzduotis ENUM pakartojimas.exe
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Uzduotis ENUM pakartojimas\obj\Debug\Uzduotis ENUM pakartojimas.pdb
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Uzduotis ENUM pakartojimas\obj\Debug\Uzduotis ENUM pakartojimas.csproj.AssemblyReference.cache

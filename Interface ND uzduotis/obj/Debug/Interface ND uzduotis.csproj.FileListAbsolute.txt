@@ -1,0 +1,6 @@
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Interface ND uzduotis\bin\Debug\Interface ND uzduotis.exe.config
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Interface ND uzduotis\bin\Debug\Interface ND uzduotis.exe
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Interface ND uzduotis\bin\Debug\Interface ND uzduotis.pdb
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Interface ND uzduotis\obj\Debug\Interface ND uzduotis.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Interface ND uzduotis\obj\Debug\Interface ND uzduotis.exe
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Interface ND uzduotis\obj\Debug\Interface ND uzduotis.pdb

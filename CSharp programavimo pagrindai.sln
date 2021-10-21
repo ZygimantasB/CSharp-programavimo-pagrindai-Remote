@@ -57,9 +57,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13 Pamoka Task 2 pakartojim
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13 Pamoka Task 3 pakartojimas", "13 Pamoka Task 3 pakartojimas\13 Pamoka Task 3 pakartojimas.csproj", "{0C398C4F-95E6-4030-83E1-4692E7BA8F1F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14 Pamoka Task 6", "14 Pamoka Task 6\14 Pamoka Task 6.csproj", "{32AA42E2-9F8D-4316-B29B-EEF60D172566}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14 Pamoka Task 5", "14 Pamoka Task 5\14 Pamoka Task 5.csproj", "{91EDCD5F-5E47-4C97-8D51-ECEAD363E04A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15 Pamoka Event1", "15 Pamoka Event1\15 Pamoka Event1.csproj", "{D73A85D6-7E48-4749-8EBA-D57D67CAFAFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14 Pamoka Task 6 ne mano", "14 Pamoka Task 6\14 Pamoka Task 6 ne mano.csproj", "{32AA42E2-9F8D-4316-B29B-EEF60D172566}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16 Pamoka delegatai", "16 Pamoka delegatai\16 Pamoka delegatai.csproj", "{FB15E1C2-C1EF-441F-BED2-FF1E18E67476}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17 Pamoka Lambada expresion", "17 Pamoka Lambada expresion\17 Pamoka Lambada expresion.csproj", "{FF7DD021-8A27-4568-BE01-90E23123EB17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -175,14 +181,26 @@ Global
 		{0C398C4F-95E6-4030-83E1-4692E7BA8F1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C398C4F-95E6-4030-83E1-4692E7BA8F1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C398C4F-95E6-4030-83E1-4692E7BA8F1F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{32AA42E2-9F8D-4316-B29B-EEF60D172566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{32AA42E2-9F8D-4316-B29B-EEF60D172566}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{32AA42E2-9F8D-4316-B29B-EEF60D172566}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{32AA42E2-9F8D-4316-B29B-EEF60D172566}.Release|Any CPU.Build.0 = Release|Any CPU
 		{91EDCD5F-5E47-4C97-8D51-ECEAD363E04A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{91EDCD5F-5E47-4C97-8D51-ECEAD363E04A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91EDCD5F-5E47-4C97-8D51-ECEAD363E04A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91EDCD5F-5E47-4C97-8D51-ECEAD363E04A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D73A85D6-7E48-4749-8EBA-D57D67CAFAFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D73A85D6-7E48-4749-8EBA-D57D67CAFAFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D73A85D6-7E48-4749-8EBA-D57D67CAFAFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D73A85D6-7E48-4749-8EBA-D57D67CAFAFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32AA42E2-9F8D-4316-B29B-EEF60D172566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32AA42E2-9F8D-4316-B29B-EEF60D172566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32AA42E2-9F8D-4316-B29B-EEF60D172566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32AA42E2-9F8D-4316-B29B-EEF60D172566}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB15E1C2-C1EF-441F-BED2-FF1E18E67476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB15E1C2-C1EF-441F-BED2-FF1E18E67476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB15E1C2-C1EF-441F-BED2-FF1E18E67476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB15E1C2-C1EF-441F-BED2-FF1E18E67476}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF7DD021-8A27-4568-BE01-90E23123EB17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF7DD021-8A27-4568-BE01-90E23123EB17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF7DD021-8A27-4568-BE01-90E23123EB17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF7DD021-8A27-4568-BE01-90E23123EB17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

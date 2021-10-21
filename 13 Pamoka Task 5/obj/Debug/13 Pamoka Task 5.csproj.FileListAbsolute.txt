@@ -1,0 +1,6 @@
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\13 Pamoka Task 5\bin\Debug\13 Pamoka Task 5.exe.config
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\13 Pamoka Task 5\bin\Debug\13 Pamoka Task 5.exe
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\13 Pamoka Task 5\bin\Debug\13 Pamoka Task 5.pdb
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\13 Pamoka Task 5\obj\Debug\13 Pamoka Task 5.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\13 Pamoka Task 5\obj\Debug\13 Pamoka Task 5.exe
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\13 Pamoka Task 5\obj\Debug\13 Pamoka Task 5.pdb

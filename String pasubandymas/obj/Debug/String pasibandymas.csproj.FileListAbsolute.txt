@@ -1,0 +1,6 @@
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\String pasubandymas\bin\Debug\String pasubandymas.exe.config
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\String pasubandymas\bin\Debug\String pasubandymas.exe
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\String pasubandymas\bin\Debug\String pasubandymas.pdb
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\String pasubandymas\obj\Debug\String pasibandymas.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\String pasubandymas\obj\Debug\String pasubandymas.exe
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\String pasubandymas\obj\Debug\String pasubandymas.pdb

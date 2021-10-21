@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Uzduotis struct\obj\Debug\Uzduotis struct.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Uzduotis struct\bin\Debug\Uzduotis struct.exe.config
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Uzduotis struct\bin\Debug\Uzduotis struct.exe
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Uzduotis struct\bin\Debug\Uzduotis struct.pdb
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Uzduotis struct\obj\Debug\Uzduotis struct.exe
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Uzduotis struct\obj\Debug\Uzduotis struct.pdb
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Uzduotis struct\obj\Debug\Uzduotis struct.csproj.AssemblyReference.cache

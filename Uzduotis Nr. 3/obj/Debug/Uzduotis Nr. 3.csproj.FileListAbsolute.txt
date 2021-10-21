@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Uzduotis Nr. 3\bin\Debug\Uzduotis Nr. 3.exe.config
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Uzduotis Nr. 3\bin\Debug\Uzduotis Nr. 3.exe
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Uzduotis Nr. 3\bin\Debug\Uzduotis Nr. 3.pdb
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Uzduotis Nr. 3\obj\Debug\Uzduotis Nr. 3.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Uzduotis Nr. 3\obj\Debug\Uzduotis Nr. 3.exe
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Uzduotis Nr. 3\obj\Debug\Uzduotis Nr. 3.pdb
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Uzduotis Nr. 3\obj\Debug\Uzduotis Nr. 3.csproj.AssemblyReference.cache

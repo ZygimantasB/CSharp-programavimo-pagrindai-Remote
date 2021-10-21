@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Static metodas 1 uzduotis\bin\Debug\Static metodas 1 uzduotis.exe.config
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Static metodas 1 uzduotis\bin\Debug\Static metodas 1 uzduotis.exe
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Static metodas 1 uzduotis\bin\Debug\Static metodas 1 uzduotis.pdb
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Static metodas 1 uzduotis\obj\Debug\Static metodas 1 uzduotis.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Static metodas 1 uzduotis\obj\Debug\Static metodas 1 uzduotis.exe
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Static metodas 1 uzduotis\obj\Debug\Static metodas 1 uzduotis.pdb
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Static metodas 1 uzduotis\obj\Debug\Static metodas 1 uzduotis.csproj.AssemblyReference.cache

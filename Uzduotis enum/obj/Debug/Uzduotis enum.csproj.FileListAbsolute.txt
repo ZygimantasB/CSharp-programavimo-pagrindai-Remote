@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Uzduotis enum\bin\Debug\Uzduotis enum.exe.config
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Uzduotis enum\bin\Debug\Uzduotis enum.exe
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Uzduotis enum\bin\Debug\Uzduotis enum.pdb
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Uzduotis enum\obj\Debug\Uzduotis enum.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Uzduotis enum\obj\Debug\Uzduotis enum.exe
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Uzduotis enum\obj\Debug\Uzduotis enum.pdb
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Uzduotis enum\obj\Debug\Uzduotis enum.csproj.AssemblyReference.cache

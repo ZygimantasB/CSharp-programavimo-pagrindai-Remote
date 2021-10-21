@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\CSharp programavimo pagrindai\bin\Debug\CSharp programavimo pagrindai.exe.config
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\CSharp programavimo pagrindai\bin\Debug\CSharp programavimo pagrindai.exe
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\CSharp programavimo pagrindai\bin\Debug\CSharp programavimo pagrindai.pdb
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\CSharp programavimo pagrindai\obj\Debug\CSharp programavimo pagrindai.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\CSharp programavimo pagrindai\obj\Debug\CSharp programavimo pagrindai.exe
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\CSharp programavimo pagrindai\obj\Debug\CSharp programavimo pagrindai.pdb
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\CSharp programavimo pagrindai\obj\Debug\CSharp programavimo pagrindai.csproj.AssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\String builder\bin\Debug\String builder.exe.config
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\String builder\bin\Debug\String builder.exe
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\String builder\bin\Debug\String builder.pdb
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\String builder\obj\Debug\String builder.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\String builder\obj\Debug\String builder.exe
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\String builder\obj\Debug\String builder.pdb

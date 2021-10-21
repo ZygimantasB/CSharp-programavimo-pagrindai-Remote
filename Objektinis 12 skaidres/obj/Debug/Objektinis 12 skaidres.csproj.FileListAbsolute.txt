@@ -1,0 +1,2 @@
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Objektinis 12 skaidres\obj\Debug\Objektinis 12 skaidres.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Objektinis 12 skaidres\obj\Debug\Objektinis 12 skaidres.csproj.CoreCompileInputs.cache

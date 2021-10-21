@@ -1,0 +1,6 @@
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Error Handling\obj\Debug\Error Handling.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Error Handling\bin\Debug\Error Handling.exe.config
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Error Handling\bin\Debug\Error Handling.exe
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Error Handling\bin\Debug\Error Handling.pdb
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Error Handling\obj\Debug\Error Handling.exe
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\Error Handling\obj\Debug\Error Handling.pdb

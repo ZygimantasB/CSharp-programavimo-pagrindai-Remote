@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\15 Pamoka Event1\bin\Debug\15 Pamoka Event1.exe.config
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\15 Pamoka Event1\bin\Debug\15 Pamoka Event1.exe
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\15 Pamoka Event1\bin\Debug\15 Pamoka Event1.pdb
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\15 Pamoka Event1\obj\Debug\15 Pamoka Event1.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\15 Pamoka Event1\obj\Debug\15 Pamoka Event1.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\15 Pamoka Event1\obj\Debug\15 Pamoka Event1.exe
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\15 Pamoka Event1\obj\Debug\15 Pamoka Event1.pdb

@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\16 Pamoka delegatai\bin\Debug\16 Pamoka delegatai.exe.config
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\16 Pamoka delegatai\bin\Debug\16 Pamoka delegatai.exe
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\16 Pamoka delegatai\bin\Debug\16 Pamoka delegatai.pdb
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\16 Pamoka delegatai\obj\Debug\16 Pamoka delegatai.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\16 Pamoka delegatai\obj\Debug\16 Pamoka delegatai.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\16 Pamoka delegatai\obj\Debug\16 Pamoka delegatai.exe
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\16 Pamoka delegatai\obj\Debug\16 Pamoka delegatai.pdb
