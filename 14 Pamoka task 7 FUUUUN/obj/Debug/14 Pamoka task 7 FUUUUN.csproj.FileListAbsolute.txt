@@ -4,3 +4,4 @@ C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\14 Pamoka task 7 
 C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\14 Pamoka task 7 FUUUUN\obj\Debug\14 Pamoka task 7 FUUUUN.csproj.CoreCompileInputs.cache
 C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\14 Pamoka task 7 FUUUUN\obj\Debug\14 Pamoka task 7 FUUUUN.exe
 C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\14 Pamoka task 7 FUUUUN\obj\Debug\14 Pamoka task 7 FUUUUN.pdb
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\14 Pamoka task 7 FUUUUN\obj\Debug\14 Pamoka task 7 FUUUUN.csproj.AssemblyReference.cache
