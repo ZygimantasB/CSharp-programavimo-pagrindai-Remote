@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace _17_Pamoka_Lambada_expresion
 {
-    class Program : ProgramBase
+    class Class1
     {
-
     }
 }

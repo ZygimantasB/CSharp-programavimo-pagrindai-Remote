@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FF7DD021-8A27-4568-BE01-90E23123EB17}</ProjectGuid>
+    <ProjectGuid>{6185A772-CE01-4A6E-B7F4-7E95C07DE002}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_17_Pamoka_Lambada_expresion</RootNamespace>
-    <AssemblyName>17 Pamoka Lambada expresion</AssemblyName>
+    <RootNamespace>_17_Pamoka_lambada_expresion_mano_bandymas</RootNamespace>
+    <AssemblyName>17 Pamoka lambada expresion mano bandymas</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,11 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
     <Compile Include="Program.cs" />
-    <Compile Include="ProgramBase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Studentas.cs" />
+    <Compile Include="Students.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

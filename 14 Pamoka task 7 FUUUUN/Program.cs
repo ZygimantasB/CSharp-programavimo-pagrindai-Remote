@@ -45,11 +45,11 @@ namespace _14_Pamoka_task_7_FUUUUN
 
             string perskaitomasFailas = File.ReadAllLines(filePatch).ToString();
 
-            if (/*perskaitomasFailas == "Zygimantas" ||*/ registracijosVardas == "Zygimantas")
+            if (perskaitomasFailas == "Zygimantas")
             {
                 Console.WriteLine("Vartotojas tokiu vardu yra registruotas");
             }
-            else if (/*perskaitomasFailas.Length < 7 || */registracijosSlaptazodis.Length < 7)
+            else if (perskaitomasFailas.Length < 7)
             {
                 Console.WriteLine("Slaptazodis negali buti ilgesnis nei 6 skaitmenys");
             }
@@ -61,7 +61,7 @@ namespace _14_Pamoka_task_7_FUUUUN
 
                 List<string> registruotoVartotojoInfo = new List<string>();
                 registruotoVartotojoInfo.Add(registracijosVardas + "\n");
-                registruotoVartotojoInfo.Add(registracijosSlaptazodis + "\n");
+                registruotoVartotojoInfo.Add(registracijosSlaptazodis);
 
                 foreach (var irasaiFaile in registruotoVartotojoInfo)
                 {
