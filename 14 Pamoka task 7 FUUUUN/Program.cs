@@ -12,7 +12,7 @@ namespace _14_Pamoka_task_7_FUUUUN
         static void Main(string[] args)
         {
             Console.WriteLine("Sveikti jei turite vartotoja prasome prisijungti, jei ne registruokite nauja vartotoja");
-            string registracija_ar_prisijungimas = Console.ReadLine().ToLower();
+            string registracija_ar_prisijungimas = Console.ReadLine();
 
             Console.WriteLine("Irasykite vartotojo varda");
             string vartotojoVardas = Console.ReadLine();
@@ -22,19 +22,15 @@ namespace _14_Pamoka_task_7_FUUUUN
 
             Program metaDuomenys = new Program();
 
-            //metaDuomenys.Prisijungti(vartotojoVardas, vartotojoSlaptazodis);
-
-            metaDuomenys.Registruotis(vartotojoVardas, vartotojoSlaptazodis);
-
-            //switch (registracija_ar_prisijungimas)
-            //{
-            //    case "Prisijungti":
-            //        metaDuomenys.Prisijungti(vartotojoVardas, vartotojoSlaptazodis);
-            //        break;
-            //    case "Registracija":
-            //        metaDuomenys.Registruotis(vartotojoVardas, vartotojoSlaptazodis);
-            //        break;
-            //}
+            switch (registracija_ar_prisijungimas)
+            {
+                case "Prisijungti":
+                    metaDuomenys.Prisijungti(vartotojoVardas, vartotojoSlaptazodis);
+                    break;
+                case "Registracija":
+                    metaDuomenys.Registruotis(vartotojoVardas, vartotojoSlaptazodis);
+                    break;
+            }
 
             Console.ReadKey();
         }
@@ -73,14 +69,17 @@ namespace _14_Pamoka_task_7_FUUUUN
 
         public void Prisijungti (string prisijungimoVardas, string prisijungimoSlaptazodis)
         {
-           
-                if (prisijungimoVardas == "Zygimantas" && prisijungimoSlaptazodis == "123456")
+            string filePath = @"G:\My Drive\C Sharp mokymai video\Paskaitos video\14 Pamoka\Task 6 Nr 2\mytest.txt";
+
+            string perskaitomasTekstas = File.ReadLines(filePath,);
+
+            if (perskaitomasTekstas == "Zygimantas" && perskaitomasTekstas == "123456")
                 {
                     Console.WriteLine("Jus sekmingai prisijungete");
                 }
                 else
                 {
-                    Console.WriteLine("Jusu prisijungimas nesekmingas");
+                    Console.WriteLine("Jusu prisijungimas nesekmingas, neteisingai suvestas vartotojo vardas arba slaptažodis");
                 }
         }
     }
