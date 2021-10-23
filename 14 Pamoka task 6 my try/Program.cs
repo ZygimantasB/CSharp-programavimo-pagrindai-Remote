@@ -31,11 +31,6 @@ namespace _14_Pamoka_task_6_my_try
             {
                 Console.WriteLine("Ne, failas nera sukurtas");
             }
-
-            using (FileStream fileStream = File.Create(filePath))
-            {
-                Console.WriteLine("failas yra sukuriamas su pavadinimu mytest.txt");
-            }
         }
 
         public void Metodas2()
@@ -45,27 +40,23 @@ namespace _14_Pamoka_task_6_my_try
 
             try
             {
-                List<string> pridetiIrasa = new List<string>();
-                pridetiIrasa.Add("Pridedu");
-                pridetiIrasa.Add("Irasa");
-                pridetiIrasa.Add("I");
-                pridetiIrasa.Add("savo");
-                pridetiIrasa.Add("Sarasa");
-
-                File.WriteAllLines(filePath, pridetiIrasa);
-
-                File.ReadAllLines(filePath).ToList();
-
-                Console.WriteLine("I faila yra prideti irasai");
-                for (int i = 0; i < pridetiIrasa.Count(); i++)
+                using (StreamWriter strWriter = File.CreateText(filePath))
                 {
-                    Console.WriteLine(pridetiIrasa.ElementAt(i));
+                    Console.WriteLine("I faila yra pridedami irasai");
+                    strWriter.WriteLine("Pridedu");
+                    strWriter.WriteLine("Irasa");
+                    strWriter.WriteLine("I");
+                    strWriter.WriteLine("savo");
+                    strWriter.WriteLine("sarassa");
+                    
                 }
             }
             catch (Exception Klaidos_atveju)
             {
-                Console.WriteLine(Klaidos_atveju);
-                File.Copy(filePath, filePath0);
+                using (StreamWriter strWriter = File.CreateText(filePath0))
+                {
+                    strWriter.WriteLine(Klaidos_atveju);
+                }
             }
         }
     }

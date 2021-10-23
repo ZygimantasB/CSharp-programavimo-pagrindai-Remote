@@ -61,8 +61,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14 Pamoka Task 5", "14 Pamo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15 Pamoka Event1", "15 Pamoka Event1\15 Pamoka Event1.csproj", "{D73A85D6-7E48-4749-8EBA-D57D67CAFAFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14 Pamoka Task 6 ne mano", "14 Pamoka Task 6\14 Pamoka Task 6 ne mano.csproj", "{32AA42E2-9F8D-4316-B29B-EEF60D172566}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16 Pamoka delegatai", "16 Pamoka delegatai\16 Pamoka delegatai.csproj", "{FB15E1C2-C1EF-441F-BED2-FF1E18E67476}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17 Pamoka Lambada expresion", "17 Pamoka Lambada expresion\17 Pamoka Lambada expresion.csproj", "{FF7DD021-8A27-4568-BE01-90E23123EB17}"
@@ -70,6 +68,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17 Pamoka lambada expresion mano bandymas", "17 Pamoka lambada expresion mano bandymas\17 Pamoka lambada expresion mano bandymas.csproj", "{6185A772-CE01-4A6E-B7F4-7E95C07DE002}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14 Pamoka task 7 FUUUUN", "14 Pamoka task 7 FUUUUN\14 Pamoka task 7 FUUUUN.csproj", "{0CAB626A-D68E-4412-92A7-F6110830895C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14 Pamoka task 6 FUN", "14 Pamoka task 6 my try\14 Pamoka task 6 FUN.csproj", "{84028086-86C6-4148-A331-721C4D9732F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14 Pamoka Task 8 Nezinau", "14 Pamoka Task 8\14 Pamoka Task 8 Nezinau.csproj", "{53E4BDAE-BB46-4613-83AE-185E40CFD0A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -193,10 +195,6 @@ Global
 		{D73A85D6-7E48-4749-8EBA-D57D67CAFAFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D73A85D6-7E48-4749-8EBA-D57D67CAFAFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D73A85D6-7E48-4749-8EBA-D57D67CAFAFF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{32AA42E2-9F8D-4316-B29B-EEF60D172566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{32AA42E2-9F8D-4316-B29B-EEF60D172566}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{32AA42E2-9F8D-4316-B29B-EEF60D172566}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{32AA42E2-9F8D-4316-B29B-EEF60D172566}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FB15E1C2-C1EF-441F-BED2-FF1E18E67476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FB15E1C2-C1EF-441F-BED2-FF1E18E67476}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB15E1C2-C1EF-441F-BED2-FF1E18E67476}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -213,6 +211,14 @@ Global
 		{0CAB626A-D68E-4412-92A7-F6110830895C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CAB626A-D68E-4412-92A7-F6110830895C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CAB626A-D68E-4412-92A7-F6110830895C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84028086-86C6-4148-A331-721C4D9732F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84028086-86C6-4148-A331-721C4D9732F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84028086-86C6-4148-A331-721C4D9732F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84028086-86C6-4148-A331-721C4D9732F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53E4BDAE-BB46-4613-83AE-185E40CFD0A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53E4BDAE-BB46-4613-83AE-185E40CFD0A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53E4BDAE-BB46-4613-83AE-185E40CFD0A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53E4BDAE-BB46-4613-83AE-185E40CFD0A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

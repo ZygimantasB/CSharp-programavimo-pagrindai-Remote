@@ -26,7 +26,7 @@ namespace _14_Pamoka_Task_5
             lines.Add("Siandien bus 14 paskaita");
             File.WriteAllLines(filePath, lines);
 
-            if (File.Exists(filePath) == false)
+            if (File.Exists(filePath) == true)
             {
                 Console.WriteLine("Viskas gerai, faila pavyko irasyti i nurodyta direktorija");
             }

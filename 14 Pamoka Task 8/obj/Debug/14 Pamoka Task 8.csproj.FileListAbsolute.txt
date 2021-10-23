@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\14 Pamoka Task 8\bin\Debug\14 Pamoka Task 8.exe.config
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\14 Pamoka Task 8\bin\Debug\14 Pamoka Task 8.exe
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\14 Pamoka Task 8\bin\Debug\14 Pamoka Task 8.pdb
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\14 Pamoka Task 8\obj\Debug\14 Pamoka Task 8.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\14 Pamoka Task 8\obj\Debug\14 Pamoka Task 8.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\14 Pamoka Task 8\obj\Debug\14 Pamoka Task 8.exe
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\14 Pamoka Task 8\obj\Debug\14 Pamoka Task 8.pdb
