@@ -73,6 +73,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14 Pamoka task 6 FUN", "14 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14 Pamoka Task 8 Nezinau", "14 Pamoka Task 8\14 Pamoka Task 8 Nezinau.csproj", "{53E4BDAE-BB46-4613-83AE-185E40CFD0A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16 Pamoka delegatai Uzduotis", "16 Pamoka delegatai Uzduotis\16 Pamoka delegatai Uzduotis.csproj", "{17DEE961-0E4A-4808-A728-6B7AC82F88D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16 Pamoka Eventai Uzduotis", "16 Pamoka Eventai Uzduotis\16 Pamoka Eventai Uzduotis.csproj", "{83FF00B4-F62F-449F-AD79-6214D6D44391}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -219,6 +223,14 @@ Global
 		{53E4BDAE-BB46-4613-83AE-185E40CFD0A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53E4BDAE-BB46-4613-83AE-185E40CFD0A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53E4BDAE-BB46-4613-83AE-185E40CFD0A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17DEE961-0E4A-4808-A728-6B7AC82F88D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17DEE961-0E4A-4808-A728-6B7AC82F88D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17DEE961-0E4A-4808-A728-6B7AC82F88D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17DEE961-0E4A-4808-A728-6B7AC82F88D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83FF00B4-F62F-449F-AD79-6214D6D44391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83FF00B4-F62F-449F-AD79-6214D6D44391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83FF00B4-F62F-449F-AD79-6214D6D44391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83FF00B4-F62F-449F-AD79-6214D6D44391}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,6 @@
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\16 Pamoka Eventai Uzduotis\bin\Debug\16 Pamoka Eventai Uzduotis.exe.config
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\16 Pamoka Eventai Uzduotis\bin\Debug\16 Pamoka Eventai Uzduotis.exe
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\16 Pamoka Eventai Uzduotis\bin\Debug\16 Pamoka Eventai Uzduotis.pdb
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\16 Pamoka Eventai Uzduotis\obj\Debug\16 Pamoka Eventai Uzduotis.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\16 Pamoka Eventai Uzduotis\obj\Debug\16 Pamoka Eventai Uzduotis.exe
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\16 Pamoka Eventai Uzduotis\obj\Debug\16 Pamoka Eventai Uzduotis.pdb

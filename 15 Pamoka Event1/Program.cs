@@ -10,9 +10,10 @@ namespace _15_Pamoka_Event1
     {
         static void Main(string[] args)
         {
-            Bankas manoBankas = new Bankas("SwedBank", 99999.99);
+            Bankas manoBankas = new Bankas("SwedBank", 458.65);
             manoBankas.IdetiPinigai += Manobankas_IdetiPinigai;
-            manoBankas.Deposite(1000);
+            manoBankas.Deposite(500);
+            manoBankas.Deposite(458.54);
 
             //EventHandler rei6kia, akd bus tusti evento parametrai. 
 
@@ -20,7 +21,7 @@ namespace _15_Pamoka_Event1
         }
         private static void Manobankas_IdetiPinigai (object sender, string e)
         {
-            //Console.WriteLine(e);
+            Console.WriteLine(e);
         }
     }
 }

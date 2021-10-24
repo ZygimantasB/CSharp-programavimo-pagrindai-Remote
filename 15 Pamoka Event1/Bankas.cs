@@ -24,15 +24,15 @@ namespace _15_Pamoka_Event1
         public double Deposite (double suma)
         {
             DisponiojamosLeses = DisponiojamosLeses + suma;
-            BankoOperacija.Invoke(this, $"Jus gavote is banko dovanu"); //this rodo, kad bus naujas objektas surkurtas 6ioje klas4je
-            IdetiPinigai.Invoke(this, $"Jus i banko sasakita idejote pinigu {DisponiojamosLeses}");
+            BankoOperacija?.Invoke(this, $"Jus gavote is banko dovanu"); //this rodo, kad bus naujas objektas surkurtas 6ioje klas4je
+            IdetiPinigai?.Invoke(this, $"Jus i banko sasakita idejote pinigu {DisponiojamosLeses}");
             return DisponiojamosLeses;
         }
         public double IsiimamiPingai (double suma)
         {
             DisponiojamosLeses = DisponiojamosLeses - suma;
-            IsimtiPinigai.Invoke(this, "Jus nuo ssakaitops nuemete pinigu");
-            PakeistaVAliuta.Invoke(this, "Jus pakeitete turimas lesas i ktia valiuta");
+            IsimtiPinigai?.Invoke(this, "Jus nuo ssakaitops nuemete pinigu");
+            PakeistaVAliuta?.Invoke(this, "Jus pakeitete turimas lesas i ktia valiuta");
             return DisponiojamosLeses;
         }
 

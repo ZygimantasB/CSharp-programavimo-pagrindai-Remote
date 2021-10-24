@@ -1,0 +1,6 @@
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\16 Pamoka delegatai Uzduotis\bin\Debug\16 Pamoka delegatai Uzduotis.exe.config
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\16 Pamoka delegatai Uzduotis\bin\Debug\16 Pamoka delegatai Uzduotis.exe
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\16 Pamoka delegatai Uzduotis\bin\Debug\16 Pamoka delegatai Uzduotis.pdb
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\16 Pamoka delegatai Uzduotis\obj\Debug\16 Pamoka delegatai Uzduotis.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\16 Pamoka delegatai Uzduotis\obj\Debug\16 Pamoka delegatai Uzduotis.exe
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\16 Pamoka delegatai Uzduotis\obj\Debug\16 Pamoka delegatai Uzduotis.pdb
