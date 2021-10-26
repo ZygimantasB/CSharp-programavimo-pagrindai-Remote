@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\18 Pamoka Extension method\bin\Debug\18 Pamoka Extension method.exe.config
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\18 Pamoka Extension method\bin\Debug\18 Pamoka Extension method.exe
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\18 Pamoka Extension method\bin\Debug\18 Pamoka Extension method.pdb
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\18 Pamoka Extension method\obj\Debug\18 Pamoka Extension method.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\18 Pamoka Extension method\obj\Debug\18 Pamoka Extension method.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\18 Pamoka Extension method\obj\Debug\18 Pamoka Extension method.exe
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\18 Pamoka Extension method\obj\Debug\18 Pamoka Extension method.pdb

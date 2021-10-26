@@ -11,8 +11,8 @@ namespace _14_Pamoka_task_7_FUUUUN
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Sveikti jei turite vartotoja prasome prisijungti, jei ne registruokite nauja vartotoja");
-            string registracija_ar_prisijungimas = Console.ReadLine();
+            Console.WriteLine("Sveiki pasirinkite prisijungti jei jau esate uzregistraves vartotoje, jei ne registruokite nauja vartotoja");
+            string vartotojoPasirinkimas = Console.ReadLine().ToLower();
 
             Console.WriteLine("Irasykite vartotojo varda");
             string vartotojoVardas = Console.ReadLine();
@@ -22,14 +22,21 @@ namespace _14_Pamoka_task_7_FUUUUN
 
             Program metaDuomenys = new Program();
 
-            switch (registracija_ar_prisijungimas)
+            bool pakartojimas = true;
+
+            while (pakartojimas)
             {
-                case "Prisijungti":
-                    metaDuomenys.Prisijungti(vartotojoVardas, vartotojoSlaptazodis);
-                    break;
-                case "Registracija":
-                    metaDuomenys.Registruotis(vartotojoVardas, vartotojoSlaptazodis);
-                    break;
+                switch (vartotojoPasirinkimas)
+                {
+                    case "prisijungti":
+                        metaDuomenys.Prisijungti(vartotojoVardas, vartotojoSlaptazodis);
+                        pakartojimas = false;
+                        break;
+                    case "registracija":
+                        metaDuomenys.Registruotis(vartotojoVardas, vartotojoSlaptazodis);
+                        pakartojimas = false;
+                        break;
+                }
             }
 
             Console.ReadKey();
@@ -37,15 +44,32 @@ namespace _14_Pamoka_task_7_FUUUUN
 
         public void Registruotis(string registracijosVardas, string registracijosSlaptazodis)
         {
+
             string filePatch = @"G:\My Drive\C Sharp mokymai video\Paskaitos video\14 Pamoka\Task 6 Nr 2\mytest.txt";
+
+            List<string> isaugotiDuomenys = new List<string>();
+            isaugotiDuomenys.Add(registracijosVardas);
+            isaugotiDuomenys.Add(registracijosSlaptazodis);
 
             string perskaitomasFailas = File.ReadAllLines(filePatch).ToString();
 
-            if (perskaitomasFailas == "Zygimantas")
+            foreach(var skaitomiDuomenys in isaugotiDuomenys)
+            {
+                if(skaitomiDuomenys == perskaitomasFailas)
+                {
+                    Console.WriteLine("Vartotojas tokiu vardu egzistuoja");
+                }
+                else if (registracijosSlaptazodis.Length > 6)
+                {
+                    Console.WriteLine("Slaptazodis turi buti ilgesnis nei 6 simboliai");
+                }
+            }
+
+            if (isaugotiDuomenys == "Zygimantas")
             {
                 Console.WriteLine("Vartotojas tokiu vardu yra registruotas");
             }
-            else if (perskaitomasFailas.Length < 7)
+            else if (perskaitomasFailas.Length > 6)
             {
                 Console.WriteLine("Slaptazodis negali buti ilgesnis nei 6 skaitmenys");
             }
@@ -71,9 +95,16 @@ namespace _14_Pamoka_task_7_FUUUUN
         {
             string filePath = @"G:\My Drive\C Sharp mokymai video\Paskaitos video\14 Pamoka\Task 6 Nr 2\mytest.txt";
 
-            string perskaitomasTekstas = File.ReadLines(filePath,);
+            string eilute = "";
 
-            if (perskaitomasTekstas == "Zygimantas" && perskaitomasTekstas == "123456")
+            File.WriteAllText(filePath, prisijungimoVardas + " " + prisijungimoSlaptazodis);
+
+            //string perskaitomasTekstas = File.ReadLines(filePath).ToString(); Bereikalignas kodas
+
+            using (StreamReader sr = File.OpenText(filePath))
+
+                eilute = sr.ReadLine();
+                if (eilute != null)
                 {
                     Console.WriteLine("Jus sekmingai prisijungete");
                 }
@@ -82,5 +113,28 @@ namespace _14_Pamoka_task_7_FUUUUN
                     Console.WriteLine("Jusu prisijungimas nesekmingas, neteisingai suvestas vartotojo vardas arba slaptažodis");
                 }
         }
+        //private readonly string _path = @"G:\My Drive\C Sharp mokymai video\Paskaitos video\14 Pamoka\Task 6 Nr 2\mytest.txt";
+        //public bool UserNamePatirkinimas (string name)
+        //{
+        //    string eilute = "";
+        //    try
+        //    {
+        //        using (StreamReader sr = File.OpenText(_path))
+        //        {
+        //            eilute = sr.ReadLine();
+        //            string[] duomenys = eilute.Split(' ');
+        //            if (duomenys [0] == name)
+        //            {
+        //                return true;
+        //            }
+        //        }
+        //    }
+        //    catch (Exception)
+        //    {
+
+        //        throw;
+        //    }
+        
     }
 }
+
