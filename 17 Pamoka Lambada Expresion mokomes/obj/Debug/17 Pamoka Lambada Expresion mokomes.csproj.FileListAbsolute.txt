@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\17 Pamoka Lambada Expresion mokomes\bin\Debug\17 Pamoka Lambada Expresion mokomes.exe.config
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\17 Pamoka Lambada Expresion mokomes\bin\Debug\17 Pamoka Lambada Expresion mokomes.exe
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\17 Pamoka Lambada Expresion mokomes\bin\Debug\17 Pamoka Lambada Expresion mokomes.pdb
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\17 Pamoka Lambada Expresion mokomes\obj\Debug\17 Pamoka Lambada Expresion mokomes.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\17 Pamoka Lambada Expresion mokomes\obj\Debug\17 Pamoka Lambada Expresion mokomes.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\17 Pamoka Lambada Expresion mokomes\obj\Debug\17 Pamoka Lambada Expresion mokomes.exe
+C:\Users\Zygimantas\source\repos\CSharp programavimo pagrindai\17 Pamoka Lambada Expresion mokomes\obj\Debug\17 Pamoka Lambada Expresion mokomes.pdb
